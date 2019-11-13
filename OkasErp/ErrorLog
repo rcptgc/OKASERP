@@ -1,0 +1,5 @@
+Tue Aug 14 19:10:48 2018 ERROR :LoginPageCls::ReadConfigurationAndConnect:conf_test.json Dosyasi Bulunamadi!
+Tue Aug 14 19:17:36 2018 ERROR :LoginPageCls::ReadConfigurationAndConnect:conf_test.json Dosyasi Bulunamadi!
+Sun Aug 19 17:27:17 2018 ERROR :LoginPageCls::ReadConfigurationAndConnect:conf_test.json Dosyasi Bulunamadi!
+Sun Aug 19 19:12:26 2018 ERROR :LoginPageCls::ReadConfigurationAndConnect:conf_test.json Dosyasi Bulunamadi!
+Mon Aug 20 00:52:09 2018 ERROR :LoginPageCls::Login:Incorrect Credentals: User Name = Password = 

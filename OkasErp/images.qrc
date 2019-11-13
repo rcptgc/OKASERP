@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ReportTemplate.xlsx</file>
+        <file>images/addbutton.png</file>
+        <file>images/barcodeImage.png</file>
+        <file>images/barcodeImage2.png</file>
+        <file>images/MARISOFT.PNG</file>
+        <file>images/ProductionPage.jpg</file>
+        <file>images/ProductionTrackingPage.png</file>
+        <file>images/report.jpg</file>
+        <file>images/sales.jpg</file>
+        <file>images/SalesEntryPage.png</file>
+        <file>images/SalesTrackingPage.jpg</file>
+        <file>images/settingspage.jpg</file>
+        <file>images/stamp.jpg</file>
+        <file>images/users.png</file>
+        <file>images/wobutton.png</file>
+        <file>ReportTemplate2.xlsx</file>
+        <file>images/export.png</file>
+        <file>images/import.png</file>
+        <file>images/productionEntryPage.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
